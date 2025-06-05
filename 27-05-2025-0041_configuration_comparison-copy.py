@@ -1,15 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Tue May 27 00:41:19 2025
 
-@author: oskarjohnbruunsmith
 """
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Fri May  2 18:18:09 2025
+
 
 FULL SWEEP‑ANALYSIS SUITE
 =========================
